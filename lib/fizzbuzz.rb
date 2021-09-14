@@ -1,3 +1,7 @@
-def fizzbuzz(number)
-  'fizz'
+class Integer
+
+    def fizzbuzz
+      'fizz'
+    end
+    
 end
